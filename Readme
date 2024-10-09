@@ -1,8 +1,10 @@
+This project was created based on the QU Developer Challenge-Word Finder.PDF file.
 
 
 To run the project:
 
-dotnet run
+Execute on terminal the: dotnet run
+
 
 You can use swagger or postman to call the WordsFinding endpoint.
 
