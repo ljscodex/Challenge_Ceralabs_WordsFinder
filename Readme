@@ -1,0 +1,32 @@
+
+
+To run the project:
+
+dotnet run
+
+You can use swagger or postman to call the WordsFinding endpoint.
+
+URL: http://localhost:5045/swagger/index.html
+
+Params Example:
+
+{
+  "matrix": [
+"abcdc",
+"lgwio",
+"chill",
+"pqnsd",
+"uvdxy"
+],
+  "wordStream": [
+"child",
+"chill",
+"cold",
+"cold",
+"cold",
+"wind",
+"snow",
+"happy",
+"HireMe"
+  ]
+}
