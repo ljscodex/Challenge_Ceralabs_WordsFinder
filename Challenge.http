@@ -1,0 +1,6 @@
+@Challenge_HostAddress = http://localhost:5045
+
+GET {{Challenge_HostAddress}}/wordsfinding/
+Accept: application/json
+
+###
